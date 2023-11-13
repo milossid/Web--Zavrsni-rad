@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:/  
-
-ikonica.jpeg:https://github.com/milossid/Web--Zavrsni-rad/blob/main/projekat%201/ikonica.jpeg
